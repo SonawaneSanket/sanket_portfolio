@@ -1,0 +1,26 @@
+{
+    "projects": [
+      {
+        "date": "07/10/2022",
+        "title": "Coderz Corner",
+        "description": "Streamline Your Operations and Boost Your Productivity: Discover the Power of Our Software Solutions",
+        "url": "https://projectone-ochre.vercel.app/",
+        "imgSrc": "https://c0.wallpaperflare.com/preview/379/493/189/concept-development-device-flat.jpg"
+      },
+  
+      {
+        "date": "11/10/2022",
+        "title": "Epicplay-zone",
+        "description": "Your One-Stop Destination for All Your Needs: Discover Our Wide Range of Products and Services Today",
+        "url": "https://epicplayzone.vercel.app/",
+        "imgSrc": "https://img.freepik.com/free-photo/woman-enjoying-vr-headset_53876-94581.jpg?w=1380&t=st=1681739950~exp=1681740550~hmac=8392560d116cf8fdfdab45c292a45134e1716825068d7c0fdcefd77d00bb1537"
+      },
+      {
+        "date": "15/10/2022",
+        "title": "Crypto-world",
+        "description": "Crypto revolutionizes finance, empowering individuals with decentralized, borderless transactions and ownership of digital assets.",
+        "url": "https://vercel.com/sanket28896-gmailcom/cryptoworld",
+        "imgSrc": "https://png.pngtree.com/element_our/md/20180313/md_5aa7473ed3d04.jpg"
+      }
+    ]
+  }
